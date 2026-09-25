@@ -1,1 +1,30 @@
+# Power BI Dashboard — Card Member Analysis & Customer Behaviour
 
+## Overview
+
+This dashboard presents the key findings from the **Card Member Analysis & Customer Behaviour** project. The visuals were created based on the analysis and business insights identified from the dataset.
+
+## Analysis Covered
+
+* Card member spending behaviour
+* Transaction patterns
+* Spending categories
+* Customer segments
+* City and category-level trends
+* High-value and low-value spending patterns
+* Other customer behaviour patterns identified during the analysis
+
+## Key Insights
+
+The analysis was used to identify meaningful patterns in customer spending and transaction behaviour. These findings were then used to determine which metrics, comparisons, and trends should be highlighted in the dashboard.
+
+## Dashboard
+
+The Power BI dashboard converts these analytical findings into an interactive visual format, allowing the key customer behaviour and spending patterns to be explored more easily.
+
+## Tools Used
+
+* Power BI
+* DAX
+* Data Modeling
+* Data Visualization
